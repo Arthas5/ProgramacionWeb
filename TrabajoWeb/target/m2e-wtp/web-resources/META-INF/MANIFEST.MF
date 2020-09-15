@@ -1,5 +1,9 @@
 Manifest-Version: 1.0
+<<<<<<< HEAD
 Built-By: Acer
+=======
+Built-By: Cesar Coronado
+>>>>>>> 67757cf17533ffa008e61a78a17f1624a7ab118a
 Build-Jdk: 1.8.0_261
 Created-By: Maven Integration for Eclipse
 
